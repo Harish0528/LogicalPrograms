@@ -40,7 +40,8 @@
 }
 ===============================================================================
 3. Write a java program to check whether a number is negative, positive or zero.
-	
+	public class Example3 {
+
 	public static void main(String[] args) {
 
 		
@@ -108,6 +109,8 @@
 ==============================================================================================
 6. Write a java program to check whether a year is leap year or not.
 
+public class Example3 {
+
 	public static void main(String[] args) {
 
 		
@@ -128,6 +131,7 @@
 ==================================================================================================
 7. Write a java program to check whether a character is alphabet or not.
 	
+	public class Example3 {
 	public static void main(String[] args) {
 
 		
@@ -149,6 +153,8 @@
 ==============================================================================================
 8. Write a java program to input any alphabet and check whether it is vowel or  consonant.
 
+public class Example3 {
+
 	public static void main(String[] args) {
 
 		
@@ -169,6 +175,8 @@
 }
 ==================================================================================================
 9. Write a java program to input any character and check whether it is alphabet, digit    or special character.
+
+public class Example3 {
 
 	public static void main(String[] args) {
 
@@ -2233,6 +2241,8 @@ public static void main(String args[]) {
 ======================================================================================================================
 77. Write a java program to create a file and write contents, save and close the file.
 
+public class Example3 {
+
 	 	public static void main(String args[]) {
 		
 		Scanner s=new Scanner(System.in);
@@ -2557,6 +2567,8 @@ public static boolean strongNumber(int n) {
 }
 ===========================================================================================================
 87. WAP to print all perfect numbers between given interval using functions.
+
+public class Example3 {
 
 		public static void main(String[] args) {
 		  
